@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">FullStack Developer | DataScience Engineer</h1>
+<h1 align="center">FullStack Developer | Data Engineer</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭  I am a Computer Science Engineering student with a focus on Backend Development, Artificial Intelligence, and Data Science.<br>- 📚  I am actively involved in various backend development projects, where I apply my knowledge of data structures, algorithms, and software engineering principles to build efficient and scalable applications.<br>- ⚡  In my free time, I participate in coding competitions and hackathons, which allow me to enhance my problem-solving abilities and collaborate with like-minded peers.</p>
+<p align="left">- 🔭  I am a Computer Science Engineering student with a focus on FullStack Development, Artificial Intelligence, and Data Science.<br>- 📚  I am actively involved in various backend development projects, where I apply my knowledge of data structures, algorithms, and software engineering principles to build efficient and scalable applications.<br>- ⚡  In my free time, I participate in coding competitions and hackathons, which allow me to enhance my problem-solving abilities and collaborate with like-minded peers.</p>
 
 ###
 
