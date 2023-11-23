@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Backend Developer | Data Scientist</h1>
+<h1 align="center">FullStack Developer | DataScience Engineer</h1>
 
 ###
 
